@@ -137,11 +137,13 @@ form:
 [prism classes="language-yaml line-numbers"]
 title: Gallery
 
+title: Gallery
+
 form:
-fields:
-tabs:
-type: tabs
-active: 1
+  fields:
+    tabs:
+      type: tabs
+      active: 1
 
       fields:
         gallery:
